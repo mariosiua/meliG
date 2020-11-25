@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+
+#tittleh1 { 
+    color: #56070C;
+    font-family: "Great Vibes", cursive;
+    font-size: 165px;
+    line-height: 160px;
+    font-weight: normal;
+    margin-bottom: 200px;
+    margin-top: 10px;
+    text-align: center;
+    text-shadow: 0 1px 1px #fff;
+}
